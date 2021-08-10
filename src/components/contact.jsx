@@ -3,11 +3,11 @@ import { Row, Card } from 'react-bootstrap';
 
 function About() {
   return (
-    <Row id="contact" className="h-100 w-100">
+    <Row id="contact" className="section-screen">
       <div className="flex container-screen h-100 w-100">
         <Card>
           <Card.Body>
-            hello this is a body
+            section under construction
           </Card.Body>
         </Card>
       </div>

@@ -7,6 +7,7 @@ import Portfolio from './portfolio';
 import Contact from './contact';
 import Education from './education';
 import Skills from './skills';
+import Experience from './experience';
 
 const PrincipalScreen = () => (
   <Container fluid>
@@ -16,6 +17,7 @@ const PrincipalScreen = () => (
       </Col>
       <Col className="h-100 offset-md-2 col-md-10 col-12">
         <About />
+        <Experience />
         <Education />
         <Skills />
         <Portfolio />

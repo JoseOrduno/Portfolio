@@ -7,7 +7,7 @@ const ProfilePhoto = () => (
     src={logo192}
     roundedCircle
     className="img-fluid "
-    style={{ border: '2px solid', borderColor: 'green' }}
+    style={{ height: '80%' }}
   />
 );
 

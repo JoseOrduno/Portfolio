@@ -15,6 +15,7 @@ const Menu = () => (
           <ProfilePhoto />
         </div>
         <Nav.Link eventKey="/about" href="/#about">About</Nav.Link>
+        <Nav.Link eventKey="/experience" href="#experience">Experience</Nav.Link>
         <Nav.Link eventKey="/education" href="/#education">Education</Nav.Link>
         <Nav.Link eventKey="/skills" href="/#skills">Skills</Nav.Link>
         <Nav.Link eventKey="/portfolio" href="/#portfolio">Portfolio</Nav.Link>

@@ -5,6 +5,10 @@ div
   height: 100%;
 }
 
+div{
+  white-space: pre-line;
+}
+
 
 
 .pos-fixed {
@@ -21,8 +25,8 @@ div
 .container-screen {
   display: flex;
   align-items: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+}
+
+.section-screen{
+  border-bottom: 1px solid gray;
 }
